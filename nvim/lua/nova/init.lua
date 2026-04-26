@@ -1,2 +1,2 @@
-require("nova.remap")
-require("nova.set")
+require('nova.remap')
+require('nova.editor')
