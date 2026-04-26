@@ -20,8 +20,8 @@ return {
                 'clangd',
                 'bashls',
                 'cssls',
-                'ltex',
                 'pyre',
+                'texlab',
             },
         },
         dependencies = {
