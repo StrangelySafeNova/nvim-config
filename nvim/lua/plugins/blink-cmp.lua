@@ -23,10 +23,6 @@ return {
         -- See :h blink-cmp-config-keymap for defining your own keymap
         keymap = {
             preset = 'default',
-
-            -- Disable default accept shortcut for custom one
-            ['<C-y>'] = false,
-            ['<C-m>'] = { 'select_and_accept', 'fallback' },
         },
 
         appearance = {
