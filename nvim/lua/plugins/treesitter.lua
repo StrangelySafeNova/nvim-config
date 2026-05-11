@@ -18,6 +18,9 @@ return {
                 "latex",
                 "html",
                 "xml",
+                "forth",
+                "php",
+                "java",
             },
 
             -- Install parsers synchronously (only applied to `ensure_installed`)

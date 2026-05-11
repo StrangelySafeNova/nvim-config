@@ -22,6 +22,8 @@ return {
                 'cssls',
                 'pyre',
                 'texlab',
+                'jdtls',
+                'phpactor',
             },
         },
         dependencies = {
