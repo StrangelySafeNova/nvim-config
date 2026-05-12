@@ -35,3 +35,6 @@ vim.o.guicursor = 'n-v-c-sm:block'
 vim.o.completeopt = 'menu,menuone,noinsert'
 
 vim.o.cursorline = true
+
+vim.opt.conceallevel = 1
+vim.opt.concealcursor = "nc"
